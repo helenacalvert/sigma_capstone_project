@@ -1,0 +1,5 @@
+Instructions:
+
+- Simply run the code!
+- You will be given prompts to make your guesses in the terminal.
+- If you wish to expand the vocabulary of the game, you are welcome to add or change the words in the list: words.
