@@ -5,7 +5,6 @@
 #if user has already used that letter, output message to try again
 #if letter not in word, output message like "left arm drawn, n tries remaining"
 #if number of tries < available tries, win, if not then death!
-
 #6 lives, could have 'picture' type thing showing the stages
 #could have an option where you can guess word before guessing all the letters correctly...?
 
@@ -128,13 +127,6 @@ def hangman():
         message = (f"Sorry, the man has been hanged! The word was {word}!")
     return message
 
-
-
-
-#are there any lives remaining
-#does underscored == word?
-#is the guess a letter or a word?
-#is the letter in the word?
 
 
 print(hangman())
